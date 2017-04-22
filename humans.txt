@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Derek Geist     derek.geist@mercuryvmp.com
 
 # THANKS
 
